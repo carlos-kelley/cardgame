@@ -1,2 +1,2 @@
-# numbers_card_game
+# Card Game
 Sort of like a boiled-down Gwent.
